@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Here is my blog https://teniuscom.tistory.com/
+### Here is my blog https://teniuscom.tistory.com/
 
 <!--
 **tenius10/tenius10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
