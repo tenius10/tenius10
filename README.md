@@ -1,20 +1,20 @@
-### 안녕하세요! 😁
+## 😁 Hi there~! 
+### I'm a backend developer 
+<br/>
 
-### 저는 웹 백엔드 개발에 관심이 있는 개발자입니다.
-
-### 다음과 같은 기술들을 공부하고 있어요.
+## 🌱 I’m currently learning
 - __SpringBoot__
 - __JPA__
 - __MariaDB__
 - __RESTful API__
 - __JWT__
+<br/>
 
-__앞으로 AWS와 Docker에 대해서도 공부하고 싶습니다.__
-
-### 현재는 SNS 모작 프로젝트를 만들고 있어요.
+## 🛠️ I'm currently working on a social media mock-up project
 https://github.com/tenius10/sns
+<br/><br/><br/>
 
-### 알고리즘 공부를 위해 백준에서 문제를 풀고 있습니다.
+## 📚 Also, I'm solving a problem in Baekjun to study algorithms
 https://www.acmicpc.net/user/eaken
 
 
