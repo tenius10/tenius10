@@ -3,19 +3,19 @@
 <br/>
 
 # 🌱 I’m currently learning
-- __SpringBoot__
-- __JPA__
-- __MariaDB__
-- __RESTful API__
-- __JWT__
+- ### SpringBoot
+- ### JPA
+- ### MariaDB
+- ### RESTful API
+- ### JWT
 <br/>
 
 # 🛠️ I'm currently working
-https://github.com/tenius10/sns
-<br/><br/><br/>
+### https://github.com/tenius10/sns
+<br/>
 
 # 📚 I'm studying algorithms at 
-https://www.acmicpc.net/user/eaken
+### https://www.acmicpc.net/user/eaken
 
 
 
