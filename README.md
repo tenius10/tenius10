@@ -1,8 +1,8 @@
-## 😁 Hi there~! 
+# 😁 Hi there~! 
 ### I'm a backend developer 
 <br/>
 
-## 🌱 I’m currently learning
+# 🌱 I’m currently learning
 - __SpringBoot__
 - __JPA__
 - __MariaDB__
@@ -10,11 +10,11 @@
 - __JWT__
 <br/>
 
-## 🛠️ I'm currently working on a social media mock-up project
+# 🛠️ I'm currently working on a social media mock-up project
 https://github.com/tenius10/sns
 <br/><br/><br/>
 
-## 📚 Also, I'm solving a problem in Baekjun to study algorithms
+# 📚 Also, I'm solving a problem in Baekjun to study algorithms
 https://www.acmicpc.net/user/eaken
 
 
