@@ -10,11 +10,11 @@
 - __JWT__
 <br/>
 
-# 🛠️ I'm currently working on a social media mock-up project
+# 🛠️ I'm currently working
 https://github.com/tenius10/sns
 <br/><br/><br/>
 
-# 📚 Also, I'm solving a problem in Baekjun to study algorithms
+# 📚 I'm studying algorithms at 
 https://www.acmicpc.net/user/eaken
 
 
