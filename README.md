@@ -11,7 +11,7 @@
 <br/>
 
 # 🛠️ I'm currently working
-### https://github.com/tenius10/sns
+### https://github.com/MangoSiruu/nonToxicDiary.git
 <br/>
 
 # 📚 I'm studying algorithms at 
