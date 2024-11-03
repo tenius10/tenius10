@@ -34,8 +34,7 @@
 
 <br/>
 
-## 📌 현재 진행 중인 프로젝트
-
+### 🗂️ 진행 중인 프로젝트
 <a href="https://github.com/Apple-Square/moment-backend.git">시간 매체 기반의 SNS : MOMENT</a>
 
 <br/>
