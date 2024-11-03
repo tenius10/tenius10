@@ -3,7 +3,7 @@
 
 [![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=eaken)](https://solved.ac/eaken)
 
-<hr/>
+<br/>
 
 ## 🛠️ 기술 스텍
 **Language**
@@ -31,10 +31,12 @@
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
-<hr/>
 
-## 💻 현재 진행 중인 프로젝트
-<a href="https://github.com/Apple-Square/moment-backend.git"> moment : 시간 매체 기반 SNS</a>
+<br/>
+
+## 📌 현재 진행 중인 프로젝트
+
+<a href="https://github.com/Apple-Square/moment-backend.git">시간 매체 기반의 SNS : MOMENT</a>
 
 <br/>
 
