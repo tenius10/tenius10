@@ -40,6 +40,7 @@
 |<img src="https://github.com/user-attachments/assets/0d2f156e-7473-4ac0-a0db-eb541db2c553" width="180">|<img src="https://github.com/user-attachments/assets/9f5f7851-b86d-4674-8f0f-f2a216b648bf" width="155">|
 |---|---|
 |**<a href="https://github.com/Apple-Square/moment-backend.git">🎞️ 시각 매체 기반의 SNS <br/>: moment</a>**|**<a href="https://github.com/MangoSiruu/nonToxicDiary">🥭 "자극적인 음식은 이제 고망~" <br/>: 고자극 음식 다이어리</a>**|
+|**🍎사과는 애플** 팀|**🥭망고시루** 팀|
 
 <br/>
 
