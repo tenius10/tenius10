@@ -44,6 +44,3 @@
 
 <br/>
 
-
-[![GitGarden](https://gitgarden.marshallku.dev/?user_name=tenius10&year=2025)](https://github.com/marshallku/gitgarden)
-
