@@ -1,5 +1,10 @@
 ## 강원대학교에 재학 중인 백엔드 개발자 조현아입니다 :)
+
+**📄 이력서 : https://relieved-mosquito-a7a.notion.site/1ba76087d07280c4a2d1f06a81303f87**
+
 **🔗 contact : teniuscom@gmail.com**
+
+<br/>
 
 [![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=eaken)](https://solved.ac/eaken)
 
