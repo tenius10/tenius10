@@ -6,11 +6,7 @@
 
 <br/>
 
-[![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=eaken)](https://solved.ac/eaken)
-
-<br/>
-
-## 🛠️ 기술 스텍
+## 🛠️ Tech
 **Language**
 
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
@@ -40,7 +36,7 @@
 
 <br/>
 
-## 💻 프로젝트
+## 💻 Project
 
 |<img src="https://github.com/user-attachments/assets/0d2f156e-7473-4ac0-a0db-eb541db2c553" width="180">|<img src="https://github.com/user-attachments/assets/9f5f7851-b86d-4674-8f0f-f2a216b648bf" width="155">|
 |---|---|
@@ -48,4 +44,7 @@
 |🍎<a href="https://github.com/Apple-Square">**사과는 애플**</a> 팀|🥭<a href="https://github.com/MangoSiruu">**망고시루**</a> 팀|
 
 <br/>
+
+## 🥇 Solved.ac
+[![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=eaken)](https://solved.ac/eaken)
 
