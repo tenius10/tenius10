@@ -38,10 +38,10 @@
 
 ## 💻 Project
 
-|<img src="https://github.com/user-attachments/assets/0d2f156e-7473-4ac0-a0db-eb541db2c553" width="180">|<img src="https://github.com/user-attachments/assets/9f5f7851-b86d-4674-8f0f-f2a216b648bf" width="155">|
-|---|---|
-|**<a href="https://github.com/Apple-Square/moment-backend.git">🎞️ 시각 매체 기반의 SNS <br/>: moment</a>**|**<a href="https://github.com/MangoSiruu/nonToxicDiary">🥭 "자극적인 음식은 이제 고망~" <br/>: 고자극 음식 다이어리</a>**|
-|🍎<a href="https://github.com/Apple-Square">**사과는 애플**</a> 팀|🥭<a href="https://github.com/MangoSiruu">**망고시루**</a> 팀|
+|<img src="https://github.com/user-attachments/assets/0d2f156e-7473-4ac0-a0db-eb541db2c553" width="180">|<img src="https://github.com/user-attachments/assets/9f5f7851-b86d-4674-8f0f-f2a216b648bf" width="155">|<img src="https://github.com/user-attachments/assets/878fa4ce-a4ad-49d2-8f18-92089de6fa15" width="85">|<img src="https://github.com/user-attachments/assets/a0b12d9a-b812-4d23-9498-089b59a75c49" width="85">
+|---|---|---|---|
+|**<a href="https://github.com/Apple-Square/moment-backend.git">🎞️ 시각 매체 기반의 SNS <br/>: moment</a>**|**<a href="https://github.com/MangoSiruu/nonToxicDiary">🥭 "자극적인 음식은 이제<br/>고망~" : 고자극 음식<br/>다이어리</a>**|**🤖 plango : 여행 계획?<br/>이제 클릭 한 번으로 끝!</a>**"|**🧡 연애재판 : 연인 간의 <br/>갈등을 조율해드려요~<br/>**|
+|🍎<a href="https://github.com/Apple-Square">**사과는 애플**</a> 팀|🥭<a href="https://github.com/MangoSiruu">**망고시루**</a> 팀|✈️<a href="https://github.com/plango2025">**plango**</a> 팀|🐜<a href="https://github.com/PracticalCoding-Team6">**개미는 못말려**</a> 팀|
 
 <br/>
 
